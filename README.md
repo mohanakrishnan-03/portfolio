@@ -1,4 +1,4 @@
-# portfolio  Mohanakrishnan S - Portfolio Website
+#  Mohanakrishnan S - Portfolio Website
 
 This is my personal portfolio website showcasing my skills, projects, education, achievements, and contact information. Built with clean HTML, CSS, and minimal JavaScript, it’s designed to be lightweight and responsive.
 
